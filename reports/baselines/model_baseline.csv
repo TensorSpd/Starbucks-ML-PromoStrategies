@@ -1,0 +1,4 @@
+Model,IRR,NIR
+Random Forest Classifier,0.0,-2.4
+Logistic Regression,0.014737712844413551,-32.399999999999864
+XGBoost Classifier,0.0188738480637922,56.0
